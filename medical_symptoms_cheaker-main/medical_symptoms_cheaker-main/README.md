@@ -5,9 +5,8 @@ Software Engineering I: Analysis, Design, and Testing
 ## Team 6:
 Bhargavi Basavapatna Keshav  
 Divya Mahesh Prabhu  
-Krishna Kumar Balasubramanian
-Nhan Ngoc Pham  
-Pooja Srinivasan  
+Krishna Kumar Balasubramanian 
+Nhan Ngoc Pham   
 
 ## Introduction:
 The project is a mobile application (Android) that will use machine learning models and data analysis to predict the disease that the user may have, based on the symptoms provided by user, and provide recommendations for nearest medical services based on severity of diseases.
